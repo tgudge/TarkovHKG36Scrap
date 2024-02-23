@@ -1,6 +1,6 @@
 {
     "name": "TarkovHKG36Scrap",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/tgudge/TarkovHKG36Scrap/",
     "description": "Adds HK G36 from Tarkov as a Scrap to Lethal Company",
     "dependencies": [
